@@ -6,7 +6,7 @@ order: 4
 ---
 
 <a href="https://wakatime.com/@018b4611-a564-4d30-8231-dd09a94eb959">
-  <img src="https://wakatime.com/badge/user/018b4611-a564-4d30-8231-dd09a94eb959.svg" />
+  <img alt="default.png" src="https://wakatime.com/badge/user/018b4611-a564-4d30-8231-dd09a94eb959.svg" />
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=muhammadalazadheera">
@@ -34,16 +34,16 @@ order: 4
 <p align="center">
 <samp>
  <a href="https://muhammadalazadheera.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="muhammadalazadheera" />
+  <img alt="default.png" src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="muhammadalazadheera" />
  </a>
  <a href="https://linkedin.com/in/muhammadalazadheera" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammadalazadheera"/>
+  <img alt="default.png" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammadalazadheera"/>
  </a>
  <a href="https://instagram.com/muhammadalazadheera" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="muhammadalazadheera" />
+  <img alt="default.png" src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="muhammadalazadheera" />
  </a> 
  <a href="https://www.facebook.com/muhammadalazadheera/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="muhammadalazadheera"  />
+  <img alt="default.png" src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="muhammadalazadheera"  />
   </a>
 </samp>
 </p>
@@ -51,7 +51,7 @@ order: 4
 <p align="center">
   <samp>
     <a href="#">
-        <img src="https://img.shields.io/badge/About-Me-2ea44f?style=for-the-badge" alt="About - Me">
+        <img alt="default.png" src="https://img.shields.io/badge/About-Me-2ea44f?style=for-the-badge" alt="About - Me">
     </a>
   </samp>
 </p>
@@ -89,7 +89,7 @@ order: 4
 <p align="center">
   <samp>
     <a href="#">
-        <img src="https://img.shields.io/badge/Language-Tools-2ea44f?style=for-the-badge" alt="Language - Tools">
+        <img alt="default.png" src="https://img.shields.io/badge/Language-Tools-2ea44f?style=for-the-badge" alt="Language - Tools">
     </a>
   </samp>
 </p>
@@ -101,7 +101,7 @@ order: 4
 <p align="left">
   <samp>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind" />
+        <img alt="default.png" src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind" />
     </a>
   </samp>
 </p>
@@ -111,7 +111,7 @@ order: 4
 <p align="left">
   <samp>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vue,react,next,nuxt" />
+        <img alt="default.png" src="https://skillicons.dev/icons?i=vue,react,next,nuxt" />
     </a>
   </samp>
 </p>
@@ -121,7 +121,7 @@ order: 4
 <p align="left">
   <samp>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+        <img alt="default.png" src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
     </a>
   </samp>
 </p>
@@ -131,7 +131,7 @@ order: 4
 <p align="left">
   <samp>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+        <img alt="default.png" src="https://skillicons.dev/icons?i=mongodb,mysql" />
     </a>
   </samp>
 </p>
@@ -141,7 +141,7 @@ order: 4
 <p align="left">
   <samp>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=firebase" />
+        <img alt="default.png" src="https://skillicons.dev/icons?i=firebase" />
     </a>
   </samp>
 </p>
@@ -151,7 +151,7 @@ order: 4
 <p align="left">
   <samp>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode,postman" />
+        <img alt="default.png" src="https://skillicons.dev/icons?i=git,figma,linux,vscode,postman" />
     </a>
   </samp>
 </p>
@@ -159,7 +159,7 @@ order: 4
 <p align="center">
   <samp>
     <a href="#">
-        <img src="https://img.shields.io/badge/portfolio-Projects-2ea44f?style=for-the-badge" alt="Portfolio - Projects">
+        <img alt="default.png" src="https://img.shields.io/badge/portfolio-Projects-2ea44f?style=for-the-badge" alt="Portfolio - Projects">
     </a>
   </samp>
 </p>
@@ -193,7 +193,7 @@ order: 4
 <p align="center">
     <samp>
         <a href="#">
-            <img src="https://img.shields.io/badge/Github-stats-2ea44f?style=for-the-badge" alt="Github - Stats">
+            <img alt="default.png" src="https://img.shields.io/badge/Github-stats-2ea44f?style=for-the-badge" alt="Github - Stats">
         </a>
     </samp>
 </p>
@@ -245,7 +245,7 @@ Contact Info
 <p align="center">
     <samp>
         <a href="#">
-            <img src="https://img.shields.io/badge/contact-info-2ea44f?style=for-the-badge" alt="contact - info">
+            <img alt="default.png" src="https://img.shields.io/badge/contact-info-2ea44f?style=for-the-badge" alt="contact - info">
         </a>
   </samp>
 </p>
@@ -253,16 +253,16 @@ Contact Info
 <p align="center">
     <samp>
         <a target="_blank" href="https://muhammadalazadheera.github.io">
-            <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+            <img alt="default.png" src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
         </a>
         <a href="https://linkedin.com/in/muhammadalazadheera" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+            <img alt="default.png" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
         </a>
         <a href="https://instagram.com/muhammadalazadheera" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+            <img alt="default.png" src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
         </a> 
         <a href="https://facebook.com/muhammadalazadheera" target="blank">
-            <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+            <img alt="default.png" src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
         </a>
   </samp>
 </p>
