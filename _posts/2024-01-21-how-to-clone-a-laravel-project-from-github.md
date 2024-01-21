@@ -5,8 +5,6 @@ categories: [Laravel, PHP, Github]
 tags: [laravel, php, github]
 ---
 
-# How to clone a Laravel project from Github
-
 __Clone your project__ <br>
 __Go to the folder application using ```cd``` command on your cmd or terminal__<br>
 __Copy .env.example file to .env on the root folder.__<br>
