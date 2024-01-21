@@ -10,7 +10,7 @@ order: 4
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=muhammadalazadheera">
-  <img align="right" src="https://komarev.com/ghpvc/?username=muhammadalazadheera&label=Visitors&color=0e75b6&style=flat"/>
+  <img alt="default.png" align="right" src="https://komarev.com/ghpvc/?username=muhammadalazadheera&label=Visitors&color=0e75b6&style=flat"/>
 </a>
 
 <h3 align="center">
