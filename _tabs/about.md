@@ -59,7 +59,7 @@ order: 4
 <p align="center">
   <samp>
     <a href="https://git.io/typing-svg">
-    <img class="img" src="https://readme-typing-svg.demolab.com?font=samp&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;Laravel;MERN+STACK;MEVN+STACK" />
+    <img alt="default.png" class="img" src="https://readme-typing-svg.demolab.com?font=samp&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;Laravel;MERN+STACK;MEVN+STACK" />
     </a>
   </samp>
 </p>
@@ -167,19 +167,19 @@ order: 4
 <p align="left">
   <samp>
   <a target="_blank" href="https://github.com/muhammadalazadheera/portfolio-laravel-pos">
-  <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=portfolio-laravel-pos&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg">
+  <img alt="default.png" class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=portfolio-laravel-pos&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg">
   </a>
   
   <a target="_blank" href="https://github.com/muhammadalazadheera/facebook_messenger_ext">
-    <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=facebook_messenger_ext&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats">
+    <img alt="default.png" class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=facebook_messenger_ext&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats">
   </a>
 
   <a target="_blank" href="https://github.com/muhammadalazadheera/wallpulse">
-    <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=muhammadalazadheera&repo=wallpulse&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges">
+    <img alt="default.png" class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=muhammadalazadheera&repo=wallpulse&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges">
   </a>
 
   <a target="_blank" href="https://github.com/muhammadalazadheera/html-css-js-projects">
-    <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=html-css-js-projects&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="unedit-for-reddit">
+    <img alt="default.png" class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=html-css-js-projects&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="unedit-for-reddit">
   </a>
   </samp>
 </p>
@@ -203,7 +203,7 @@ order: 4
 <p>
     <samp>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img class="img" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=muhammadalazadheera&theme=monokai-metallian&hide_border=false"/>
+        <img alt="default.png" class="img" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=muhammadalazadheera&theme=monokai-metallian&hide_border=false"/>
     </a>
     </samp>
 </p>
@@ -214,7 +214,7 @@ order: 4
 
 <samp>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img class="img" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammadalazadheera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866"/>
+  <img alt="default.png" class="img" alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muhammadalazadheera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866"/>
 </a>
 </samp>
 
@@ -224,7 +224,7 @@ order: 4
 
 <samp>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadalazadheera&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
+    <img alt="default.png" class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadalazadheera&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=2ea44f&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
     </a>
 </samp>
 
@@ -234,7 +234,7 @@ order: 4
 
 <samp>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=muhammadalazadheera&bg_color=1F222E&color=2ea44f&line=2ea44f&point=FFFFFF&hide_border=false" />
+    <img alt="default.png" width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=muhammadalazadheera&bg_color=1F222E&color=2ea44f&line=2ea44f&point=FFFFFF&hide_border=false" />
     </a>
 </samp>
 
